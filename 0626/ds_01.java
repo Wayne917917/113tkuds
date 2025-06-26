@@ -9,6 +9,5 @@ public class ds_01 {
         int  y = scanner.nextInt();
         int sum = x + y;
         System.out.println("兩個整數的和為: " + sum);
-        scanner.close();
     }
 }
